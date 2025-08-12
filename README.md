@@ -21,3 +21,12 @@ pip install -r requirements.txt
 python gui.py
 ```
 
+# Instructions for installing DLC and Sleap
+
+0. Run the scripts with superuser permission
+
+```
+sudo bash DLC_install.sh
+sudo bash SLEAP_install.sh
+```
+
